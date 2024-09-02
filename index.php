@@ -34,7 +34,7 @@ include_once 'config/app.php';
 
 
 <div class="hero_area"> </div>
-
+    // salam dunya
     <?php
     include_once 'views/include/header.php';
 
